@@ -1,4 +1,3 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=FFFFFF&height=120&section=header"/>
 # 🤖 Nathan Germano
 
 **Desenvolvedor Fron-End /** **Gestor em T.I**
@@ -30,4 +29,3 @@ profissionalmente e ampliar meus conhecimentos.
     </td>
   </tr>
 </table>
-<img src="https://capsule-render.vercel.app/api?type=waving&color=FFFFFF&height=120&section=footer"/>
