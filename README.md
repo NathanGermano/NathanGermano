@@ -24,7 +24,7 @@ profissionalmente e ampliar meus conhecimentos.
 
 <table>
   <tr>
-    <td valign="top" width="50%">
+    <td valign="top" width="60%" align="center">
       <img src="https://github-readme-activity-graph.vercel.app/graph?username=NathanGermano&bg_color=0d1117&color=ffffff&line=bc8cff&point=ffffff&area=true&hide_border=true" alt="Activity Graph" />
     </td>
     <td valign="top" width="50%" align="center">
