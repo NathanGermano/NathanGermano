@@ -3,7 +3,7 @@
 **Desenvolvedor FullStack /** **Gestor em T.I**
 
 Sou um desenvolvedor fullStack com 25 anos, tenho ensino superior em Gestão de Tecnologia da Informação.<br>
-desde novo me interessei no ramo da tecnologia quando ganhei meu primeiro computador, busquei como me perfeiçoar na área de diversas formas.<br> 
+Desde novo me interessei no ramo da tecnologia quando ganhei meu primeiro computador, busquei como me aperfeiçoar na área de diversas formas.<br> 
 Sempre busco estudar coisas novas na área para sem um melhor profissional e melhorar meus conhecimentos.
 
 ## 🖥️ Tecnologias que utilizo:
