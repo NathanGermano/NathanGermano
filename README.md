@@ -1,26 +1,26 @@
-
-# 🤖 Nathan Germano
+## 🧑‍💻 Nathan Germano
 
 **Desenvolvedor FullStack /** **Gestor em T.I**
 
-Desenvolvedor FullStack com 25 anos, tenho ensino superior em Gestão de Tecnologia da Informação.<br>
-Facinado pela tecnologia, busquei como me perfeiçoar na área em diversos setores. Sempre busco evoluir <br>
-profissionalmente e ampliar meus conhecimentos.
+Sou um desenvolvedor fullStack com 25 anos, tenho ensino superior em Gestão de Tecnologia da Informação.<br>
+desde novo me interessei no ramo da tecnologia quando ganhei meu primeiro computador, busquei como me perfeiçoar na área de diversas formas.<br> 
+Sempre busco estudar coisas novas na área para sem um melhor profissional e melhorar meus conhecimentos.
 
-## 🧰 Tecnologias que utilizo
+## 🖥️ Tecnologias que utilizo:
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=styled-components&logoColor=white)
 ![Sass](https://img.shields.io/badge/Sass-000000?style=for-the-badge&logo=sass&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-000000?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-000000?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![React](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white)
 
-## 📈 Estatísticas do meu GitHub
+## 📈 Estatísticas do meu GitHub:
 
 <table>
   <tr>
